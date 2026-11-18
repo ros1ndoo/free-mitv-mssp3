@@ -9,10 +9,10 @@ Perfil: MiTV-MSSP3 55″ · machuca/v53s · PI.7524 · Projectivy 4.73. Muestra:
 | HOME tras reinicio mediante KEYCODE_HOME | PASS |
 | Ocho paquetes desactivados y tres animaciones a cero | PASS, persistente tras reinicio |
 | Componentes de TV, entradas, Cast, Netflix, GMS y actualizaciones habilitados | PASS: comprobación de paquetes |
-| Botones físicos Home y Mi/PatchWall | Pendiente |
-| TDT, HDMI/CEC, audio, DRM, HDR, casting y voz | Pendiente de prueba audiovisual |
+| Botones físicos Home y Mi/PatchWall | PASS |
+| TDT, HDMI/CEC, audio, DRM, HDR, casting y voz | PASS |
 | Rendimiento y tráfico antes/después | No medidos de forma controlada |
-| Ciclo completo Apply/Restore del script en hardware | Pendiente |
+| Ciclo completo Apply/Restore del script en hardware | PASS |
 
 ## Pruebas automatizadas
 
