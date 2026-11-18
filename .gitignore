@@ -1,0 +1,14 @@
+# Estado privado, claves ADB y herramientas descargadas
+state/
+tools/
+diagnostico/
+.android/
+adbkey*
+*.apk
+*.bin
+*.img
+*.zip
+*.log
+test-results/
+.DS_Store
+Thumbs.db
