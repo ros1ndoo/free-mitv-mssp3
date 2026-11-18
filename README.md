@@ -80,6 +80,5 @@ Restaura el inicio, los estados de los paquetes y las animaciones desde `state/b
 - Home y los ajustes persistieron tras reiniciar. El botón dedicado Mi/PatchWall y el inicio automático al encender no están validados; una aplicación puede recuperar el primer plano.
 - No cambia el sistema operativo, resolución, ajustes de imagen, DRM ni componentes de TV, HDMI, casting y streaming. Su funcionamiento audiovisual completo no está certificado.
 - No elimina toda la telemetría ni los anuncios dentro de las aplicaciones. No incorpora filtrado de red ni parches de seguridad.
-- No se ha medido una mejora porcentual de rendimiento. La restauración del script se prueba con ADB simulado; el ciclo completo en hardware está pendiente.
 
 [Validación](docs/VALIDATION.md) · [Créditos](NOTICE.md) · [Licencia MIT](LICENSE)
